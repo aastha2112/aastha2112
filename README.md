@@ -12,7 +12,7 @@ I’m passionate about building interactive and user-friendly web applications. 
 - 🛠️ Exploring **backend technologies like Node.js and Express**  
 
 ## 🔗 **Connect with Me**  
-[![LinkedIn]((https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aasthalakhanpal7/))  
+[LinkedIn](https://www.linkedin.com/in/aasthalakhanpal7/)
 
 ## 🛠️ **Tech Stack**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
