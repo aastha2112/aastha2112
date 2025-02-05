@@ -12,7 +12,7 @@ I’m passionate about building interactive and user-friendly web applications. 
 - 🛠️ Exploring **backend technologies like Node.js and Express**  
 
 ## 🔗 **Connect with Me**  
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aasthalakhanpal7/))  
+[![LinkedIn]((https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aasthalakhanpal7/))  
 
 ## 🛠️ **Tech Stack**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -21,6 +21,3 @@ I’m passionate about building interactive and user-friendly web applications. 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
-## 📊 **GitHub Stats**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react)  
