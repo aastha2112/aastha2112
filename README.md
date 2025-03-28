@@ -8,7 +8,7 @@ I’m passionate about building interactive and user-friendly web applications. 
 ## 🔥 **About Me**  
 - 💻 Frontend developer with experience in **JavaScript, React,and Redux**  
 - 🎯 Passionate about **UI/UX design, performance optimization, and responsive web development**  
-- 🚀 Currently learning **TypeScript & SQL**  
+- 🚀 Currently learning **TypeScript & Next.js**  
 - 🛠️ Exploring **backend technologies like Node.js and Express**  
 
 ## 🔗 **Connect with Me**  
